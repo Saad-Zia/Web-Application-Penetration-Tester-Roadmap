@@ -79,4 +79,14 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
              - https://www.youtube.com/watch?v=gfDE2a7MKjA
              - https://www.youtube.com/watch?v=eTyI-M50Hu4
            
-	         - **Bash Scripting / Shell Scripting**
+        - **Bash Scripting / Shell Scripting**
+          - https://www.javatpoint.com/bash
+          - https://www.tutorialspoint.com/unix/shell_scripting.htm
+          - https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/
+          - https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/
+          - https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
+          - https://www.youtube.com/watch?v=e7BufAVwDiM&t=428s
+          - https://www.youtube.com/watch?v=GtovwKDemnI
+          - https://www.youtube.com/watch?v=2PGnYjbYuUo&t=192s
+       
+       
