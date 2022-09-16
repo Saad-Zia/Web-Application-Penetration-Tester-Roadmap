@@ -24,4 +24,23 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
         - https://www.javatpoint.com/computer-fundamentals-tutorial
       
      - **Computer Networking**
+        - https://www.youtube.com/watch?v=qiQR5rTSshw
+        - https://www.youtube.com/watch?v=Mad4kQ5835Y&list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg
+        - https://www.youtube.com/watch?v=L3ZzkOTDins
+        - https://www.youtube.com/watch?v=mzKtDtjFSME
+        - https://www.javatpoint.com/computer-network-tutorial
+        - https://www.udemy.com/course/introduction-to-computer-networks/
+        - https://www.geeksforgeeks.org/computer-network-tutorials/
+        - https://www.youtube.com/watch?v=0AcpUwnc12E&list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K
+      
+      - **Operating Systems**
+        - https://www.javatpoint.com/latest-operating-systems
+        - https://www.geeksforgeeks.org/operating-systems/
+        - https://www.tutorialspoint.com/operating_system/index.htm
+        - https://www.youtube.com/watch?v=v_1zB2WNN14
+        - https://www.youtube.com/watch?v=z2r-p7xc7c4
+        - https://www.youtube.com/watch?v=ROjZy1WbCIA
+        - https://www.youtube.com/watch?v=aaEoyVIowk8
+        - https://www.youtube.com/watch?v=_tCY-c-sPZc
+     
               
