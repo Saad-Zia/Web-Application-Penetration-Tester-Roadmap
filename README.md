@@ -44,7 +44,19 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
         - https://www.youtube.com/watch?v=ROjZy1WbCIA
         - https://www.youtube.com/watch?v=aaEoyVIowk8
         - https://www.youtube.com/watch?v=_tCY-c-sPZc
-     
+      
+     - **Server**  
+        - https://www.javatpoint.com/server
+        - https://www.tutorialspoint.com/internet_technologies/web_servers.htm
+        - https://www.tutorialspoint.com/internet_technologies/website_hosting.htm
+        - https://www.javatpoint.com/web-servers
+        - https://www.javatpoint.com/what-is-apache
+        - https://www.javatpoint.com/server-web-vs-application
+        - https://www.youtube.com/watch?v=WMy3OzvBWc0
+        - https://www.youtube.com/watch?v=NQP89ish9t8&t=58s
+        - https://www.youtube.com/watch?v=UjCDWCeHCzY
+        - https://www.youtube.com/watch?v=9J1nJOivdyw
+        
      - **Command Line**
         - **Linux:**
           - https://linuxjourney.com/
@@ -95,4 +107,23 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
           - https://www.youtube.com/watch?v=HcOc7P5BMi4
           - https://www.youtube.com/watch?v=PlxWf493en4
        
-       
+        - **JavaScript**
+           - https://www.tutorialspoint.com/javascript/index.htm
+           - https://www.javatpoint.com/javascript-tutorial
+           - https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop
+           - https://www.youtube.com/watch?v=hKB-YGF14SY&t=1486s
+           - https://www.youtube.com/watch?v=jS4aFq5-91M
+           - https://www.youtube.com/watch?v=fBhxs9OHxtY&list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
+        
+        - **PHP**
+          - https://www.tutorialspoint.com/php/index.htm
+          - https://www.javatpoint.com/php-tutorial
+          - https://www.youtube.com/watch?v=OK_JCtrrv-c
+          - https://www.youtube.com/watch?v=1SnPKhCdlsU
+          - https://www.youtube.com/watch?v=HcOc7P5BMi4&t=1s
+        
+        - **Batch Scripting** 
+          - https://www.tutorialspoint.com/batch_script/index.htm
+          - https://www.youtube.com/watch?v=qZ8W3LXSkzY&list=PL8WTXLSrtyWrQ5Tl50zkTeRc3bATyHRbX
+          - https://www.youtube.com/watch?v=KxjRdgt8lyc
+          - https://www.youtube.com/watch?v=KxjRdgt8lyc
