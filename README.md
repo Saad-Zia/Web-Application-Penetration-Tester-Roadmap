@@ -154,3 +154,10 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
      - Threat Post: https://threatpost.com/
      - Rafay Baloch: https://www.rafaybaloch.com/
 
+  - **Writeups**
+    - Hackerone Hacktivity: https://hackerone.com/hacktivity
+    - Bugcrowd Writeup: https://bugcrowd.com/crowdstream?filter=disclosures
+    - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
+    - Infosec Writeups: https://infosecwriteups.com/?gi=3149891cc73d
+    - Medium: https://medium.com/analytics-vidhya/a-beginners-guide-to-cyber-security-3d0f7891c93a
+    - 
