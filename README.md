@@ -89,4 +89,10 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
           - https://www.youtube.com/watch?v=GtovwKDemnI
           - https://www.youtube.com/watch?v=2PGnYjbYuUo&t=192s
        
+        - **Basic HTML**
+          - https://www.javatpoint.com/html-tutorial#:~:text=In%20our%20tutorial%2C%20every%20topic,own%20interactive%20and%20dynamic%20website.
+          - https://www.tutorialspoint.com/html/index.htm
+          - https://www.youtube.com/watch?v=HcOc7P5BMi4
+          - https://www.youtube.com/watch?v=PlxWf493en4
+       
        
