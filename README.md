@@ -17,4 +17,9 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
  - **Technical Skills**
       - **Computer Fundamentals**
         - https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp
-              - 
+        - https://www.youtube.com/watch?v=tIfRDPekybU
+        - https://www.tutorialspoint.com/computer_fundamentals/index.htm
+        - https://onlinecourses.swayam2.ac.in/cec19_cs06/preview
+        - https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp
+        - https://www.javatpoint.com/computer-fundamentals-tutorial
+              
