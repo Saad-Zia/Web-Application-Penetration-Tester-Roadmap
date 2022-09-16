@@ -129,3 +129,9 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
           - https://www.youtube.com/watch?v=qZ8W3LXSkzY&list=PL8WTXLSrtyWrQ5Tl50zkTeRc3bATyHRbX
           - https://www.youtube.com/watch?v=KxjRdgt8lyc
           - https://www.youtube.com/watch?v=KxjRdgt8lyc
+
+# Resources To Follow for Web Application Penetration Testing
+
+   - **Books**
+     - https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
+     - 
