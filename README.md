@@ -272,3 +272,13 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 **Sample Report**
 
 ![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
+
+### Some additional Tips
+
+1. **Stay updated**, learning should never stop. Join twitter, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
+2. Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
+3. **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
+4. Always try to escalate the severity of the bug, **Keep a broader mindset**. An RCE always has higher impact than arbitrary file upload.
+5. It's not necessary that a vulnerability will be rewarded based on the industry defined standard impact. The asset owners **rate the issue with a risk rating**, often calculated as *impact * likelyhood* (exploitability). For example, an SQL Injection by default has a Critical impact, but if the application is accessible only inside the organization VPN and doesn't contain any user data/PII in the database, the likelyhood of the exploitation is reduced, so does the risk.
+6. **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences. 
+7. **Always be helpful**.
