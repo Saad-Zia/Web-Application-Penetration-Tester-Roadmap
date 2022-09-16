@@ -78,3 +78,5 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
              - https://www.youtube.com/watch?v=ZLga4doUdjY&t=30352s
              - https://www.youtube.com/watch?v=gfDE2a7MKjA
              - https://www.youtube.com/watch?v=eTyI-M50Hu4
+           
+	   - **Bash Scripting / Shell Scripting**
