@@ -14,5 +14,5 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
  
 # What You Need To Learn To Become Web Application Penetration Tester?
 
-  - **Technical Skills**
+ - **Technical Skills**
         - **Computer Fundamentals**
