@@ -210,5 +210,25 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 
 ## Where To Practice Web Penetration Testing? 
    - **CTF**
-     - TryHackMe: https://tryhackme.com/
+     - TryHackMe: https://tryhackme.com/ (premium/free)
+     - HackTheBox: https://www.hackthebox.com/ (premium)
+     - VulnHub: https://www.vulnhub.com/
+     - Hacker 101: https://www.hackerone.com/hackers/hacker101
+     - HackThisSite: https://hackthissite.org/
+     - CTFChallenge: https://ctfchallenge.co.uk/
+     - PentesterLab: https://pentesterlab.com/referral/olaL4k8btE8wqA (premium)
+  
+- **Online Labs**
+	 - PortSwigger Web Security Academy: https://portswigger.net/web-security
+	 - OWASP Juice Shop: https://owasp.org/www-project-juice-shop/
+	 - XSSGame: https://xss-game.appspot.com/
+	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
+	 - W3Challs : https://w3challs.com/
+
+ - **Offline Labs**
+	 - DVWA: https://dvwa.co.uk/
+	 - bWAPP: http://www.itsecgames.com/
+	 - Metasploitable2: https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
+	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
+	 - W3Challs : https://w3challs.com/
  
