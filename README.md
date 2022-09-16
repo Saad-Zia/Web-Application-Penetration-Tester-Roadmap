@@ -232,3 +232,43 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
 	 - W3Challs : https://w3challs.com/
  
+ # Bug Bounty Platforms
+
+ - **Crowdsourcing**
+	 - Bugcrowd: https://www.bugcrowd.com/
+	 - Hackerone: https://www.hackerone.com/
+	 - Intigriti: https://www.intigriti.com/
+	 - YesWeHack: https://www.yeswehack.com/
+	 - OpenBugBounty: https://www.openbugbounty.org/
+
+ - **Individual** **Programs**
+	 - Meta: https://www.facebook.com/whitehat
+	 - Google: https://about.google/appsecurity/
+
+# Bug Bounty Report Format
+
+ - **Title**
+	 - The first impression is the last impression, the security engineer
+   looks at the title first and he should be able to identify the issue.
+   - Write about what kind of functionality you can able to abuse or what kind
+   of protection you can bypass. Write in just one line.
+   - Include the Impact of the issue in the title if possible.
+
+ - **Description**
+	 - This component provides details of the vulnerability, you can explain the vulnerability here, write about the paths, endpoints, error messages you got while testing. You can also attach HTTP requests, vulnerable source code.
+
+ - **Steps to Reproduce**
+	 - Write the stepwise process to recreate the bug. It is important for an app owner to be able to verify what you've found and understand the scenario.
+	 - You must write each step clearly in-order to demonstrate the issue. that helps security engineers to triage fast.
+
+ - **Proof of Concept**
+	 - This component is the visual of the whole work. You can record a demonstration video or attach screenshots.
+
+ - **Impact**
+	 - Write about the real-life impact, How an attacker can take advantage if he/she successfully exploits the vulnerability. 
+	 - What type of possible damages could be done? (avoid writing about the theoretical impact)
+	 - Should align with the business objective of the organization
+
+**Sample Report**
+
+![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
