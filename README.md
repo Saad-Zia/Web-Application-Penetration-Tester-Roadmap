@@ -133,11 +133,24 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
 # Resources To Follow for Web Application Penetration Testing
 
    - **Books**
-     - https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
-     - https://www.amazon.in/Hands-Bug-Hunting-Penetration-Testers-ebook/dp/B07DTF2VL6
-     - https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
-     - https://owasp.org/www-project-web-security-testing-guide/
-     - https://www.pdfdrive.com/web-hacking-101-e26570613.html
-     - https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG
-     - https://www.amazon.in/Bug-Bounty-Hunting-Essentials-Quick-paced-ebook/dp/B079RM344H
-     - 
+   
+     - Web Application Hacker's Handbook: https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
+     - Bug Hunting Penetration Testers: https://www.amazon.in/Hands-Bug-Hunting-Penetration-Testers-ebook/dp/B07DTF2VL6
+     - Hacker Playbook Practical Penetration Testing: https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
+     - Web Security Testing Guide: https://owasp.org/www-project-web-security-testing-guide/
+     - Web Hacking 101: https://www.pdfdrive.com/web-hacking-101-e26570613.html
+     - Real World Bug Hunting: https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG
+     - Bug Bounty Hunting Essentials: https://www.amazon.in/Bug-Bounty-Hunting-Essentials-Quick-paced-ebook/dp/B079RM344H
+   
+  - **Blogs and Articles**
+ 
+     - Hacking Articles: https://www.hackingarticles.in/
+     - Vickie Li's Security Blog: https://vickieli.dev/
+     - Bugcrowd Blogs: https://www.bugcrowd.com/blog/
+     - PortSwigger Blogs: https://portswigger.net/blog
+     - Protecting Against Black Hat Hackers: https://www.productivecorp.com/blog/stopping-hackers/protecting-against-black-hat-hackers/
+     - Dark Reading: https://www.darkreading.com/
+     - krebsonsecurity: https://krebsonsecurity.com/
+     - Threat Post: https://threatpost.com/
+     - Rafay Baloch: https://www.rafaybaloch.com/
+
