@@ -12,7 +12,9 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
  - **What is Web Application Penetration Testing?**
 	 - Web application penetration testing is the process of using penetration testing techniques on a web application to detect its vulnerabilities. It is similar to a penetration test and aims to break into the web application using any penetration attacks or threats. Web application penetration testing works by using manual or automated penetration tests to identify any vulnerability, security flaws or threats in a web application. The tests involve using/implementing any of the known malicious penetration attacks on the application. The penetration tester exhibits/fabricates attacks and environment from an attacker’s perspective, such as using SQL injection tests. The web application penetration testing key outcome is to identify security weakness across the entire web application and its components (source code, database, back-end network). It also helps in prioritizing the identified vulnerabilities and threats, and possible ways to mitigate them..
  
-# What You Need To Learn To Become Web Application Penetration Tester?
+# What To Learn To Become Web Application Penetration Tester?
 
  - **Technical Skills**
       - **Computer Fundamentals**
+              - https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp
+              - 
