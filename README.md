@@ -153,6 +153,10 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
      - krebsonsecurity: https://krebsonsecurity.com/
      - Threat Post: https://threatpost.com/
      - Rafay Baloch: https://www.rafaybaloch.com/
+     - Naked Security: https://nakedsecurity.sophos.com/
+     - Security Week: https://www.securityweek.com/
+     - TheHacker News: https://thehackernews.com/
+     - BleepingComputer: https://www.bleepingcomputer.com/
 
   - **Writeups**
     - Hackerone Hacktivity: https://hackerone.com/hacktivity
@@ -192,4 +196,17 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
     - Gerald Auger, PhD - Simply Cyber: https://www.youtube.com/c/GeraldAuger
     - The XSS rat: https://www.youtube.com/c/TheXSSrat/playlists
     - TechChip: https://www.youtube.com/c/TechChipNet
+    - Hacking Simplified: https://www.youtube.com/c/HackingSimplifiedAS
+    - Bug Bounty Reports Explained: https://www.youtube.com/c/BugBountyReportsExplained
+    - Vickie Li Dev: https://www.youtube.com/c/VickieLiDev
+    - Z-winK University: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
+    - Farah Hawa: https://www.youtube.com/c/FarahHawa
+    - PwnFunction: https://www.youtube.com/c/PwnFunction
+    - Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
+    - Spin The Hack: https://www.youtube.com/c/SpinTheHack
+   
+## Join Twitter Today!
+World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
+
+## Where To Practice Web Penetration Testing? 
  
