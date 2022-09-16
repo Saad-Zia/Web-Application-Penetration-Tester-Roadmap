@@ -134,4 +134,10 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
 
    - **Books**
      - https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
-     -
+     - https://www.amazon.in/Hands-Bug-Hunting-Penetration-Testers-ebook/dp/B07DTF2VL6
+     - https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
+     - https://owasp.org/www-project-web-security-testing-guide/
+     - https://www.pdfdrive.com/web-hacking-101-e26570613.html
+     - https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG
+     - https://www.amazon.in/Bug-Bounty-Hunting-Essentials-Quick-paced-ebook/dp/B079RM344H
+     - 
