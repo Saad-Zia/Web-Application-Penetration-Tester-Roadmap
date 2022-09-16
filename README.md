@@ -160,4 +160,17 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
     - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
     - Infosec Writeups: https://infosecwriteups.com/?gi=3149891cc73d
     - Medium: https://medium.com/analytics-vidhya/a-beginners-guide-to-cyber-security-3d0f7891c93a
-    - 
+  
+  - **Forums**
+    - Reddit: https://www.reddit.com/r/websecurity/
+    - Reddit: https://www.reddit.com/r/netsec/
+    - Bugcrowd Discord: https://discord.com/invite/TWr3Brs
+ 
+  - **Official Websites**
+    - OWASP: https://owasp.org/
+    - PortSwigger: https://portswigger.net/
+    - Cloudflare: https://www.cloudflare.com/en-gb/
+    
+   
+
+ 
