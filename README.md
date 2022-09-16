@@ -66,4 +66,15 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
           - https://www.youtube.com/watch?v=K4YDHFalAK8
         
       - **Programming Language**
-                    - **Python**
+           - **Python**
+             - https://www.geeksforgeeks.org/python-basics/
+             - https://www.geeksforgeeks.org/how-to-learn-python-in-21-days/
+             - https://github.com/Asabeneh/30-Days-Of-Python
+             - https://www.tutorialspoint.com/python/index.htm
+             - https://www.youtube.com/watch?v=vLqTf2b6GZw
+             - https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+             - https://www.youtube.com/watch?v=-JgNMdS-yaM&list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN&index=3
+             - https://www.youtube.com/watch?v=8ext9G7xspg
+             - https://www.youtube.com/watch?v=ZLga4doUdjY&t=30352s
+             - https://www.youtube.com/watch?v=gfDE2a7MKjA
+             - https://www.youtube.com/watch?v=eTyI-M50Hu4
