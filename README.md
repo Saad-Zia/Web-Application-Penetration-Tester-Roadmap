@@ -171,6 +171,25 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
     - PortSwigger: https://portswigger.net/
     - Cloudflare: https://www.cloudflare.com/en-gb/
     
-   
-
+  - **YouTube Channels To Follow**
+    - DedSec: https://www.youtube.com/c/DedSecislive
+    - NullByte: https://www.youtube.com/c/NullByteWHT/videos
+    - HackerSploit: https://www.youtube.com/c/HackerSploit
+    - SSTecTutorials: https://www.youtube.com/c/SSTecTutorials/videos
+    - Tech Raj: https://www.youtube.com/c/TechRaj156
+    - hack6: https://www.youtube.com/channel/UC_AfLYMYratLzyeF5MtOoiA
+    - Hak5: https://www.youtube.com/c/hak5
+    - NETVN: https://www.youtube.com/c/NETVN82
+    - Bitten Tech: https://www.youtube.com/c/BittenTech
+    - LiveOverFlow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+    - The Cyber Expert: https://www.youtube.com/c/TheCyberExpert/playlists
+    - Infosec: https://www.youtube.com/c/InfoSecInstitute
+    - Nahamsec: https://www.youtube.com/c/Nahamsec/videos
+    - InsiderPhD: https://www.youtube.com/c/InsiderPhD
+    - Security Weekly: https://www.youtube.com/c/SecurityWeekly
+    - Security Now: https://www.youtube.com/results?search_query=Security+Now
+    - The PC Security Channel: https://www.youtube.com/c/thepcsecuritychannel
+    - Gerald Auger, PhD - Simply Cyber: https://www.youtube.com/c/GeraldAuger
+    - The XSS rat: https://www.youtube.com/c/TheXSSrat/playlists
+    - TechChip: https://www.youtube.com/c/TechChipNet
  
