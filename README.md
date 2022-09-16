@@ -43,4 +43,15 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
         - https://www.youtube.com/watch?v=aaEoyVIowk8
         - https://www.youtube.com/watch?v=_tCY-c-sPZc
      
+     - **Command Line**
+        - **Linux:**
+               - https://linuxjourney.com/
+               - https://www.javatpoint.com/linux-commands
+               - https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+               - https://www.youtube.com/watch?v=2PGnYjbYuUo
+               - https://www.youtube.com/watch?v=e7BufAVwDiM&t=418s
+               - https://www.youtube.com/watch?v=ZJ0s6jn7TBo&list=PLkPmSWtWNIyTQ1NX6MarpjHPkLUs3u1wG&index=1
+               - https://www.youtube.com/watch?v=GtovwKDemnI
+               - https://www.youtube.com/watch?v=UVUd9_k9C6A 
+          
               
