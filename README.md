@@ -45,7 +45,7 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
      
      - **Command Line**
         - **Linux:**
-                   - https://linuxjourney.com/
+          - https://linuxjourney.com/
                    - https://www.javatpoint.com/linux-commands
                    - https://www.tutorialspoint.com/unix/unix-useful-commands.htm
                    - https://www.youtube.com/watch?v=2PGnYjbYuUo
