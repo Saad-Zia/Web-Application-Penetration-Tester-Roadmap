@@ -32,11 +32,13 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
         - https://www.udemy.com/course/introduction-to-computer-networks/
         - https://www.geeksforgeeks.org/computer-network-tutorials/
         - https://www.youtube.com/watch?v=0AcpUwnc12E&list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K
+        - https://www.youtube.com/watch?v=k9ZigsW9il0
       
       - **Operating Systems**
         - https://www.javatpoint.com/latest-operating-systems
         - https://www.geeksforgeeks.org/operating-systems/
         - https://www.tutorialspoint.com/operating_system/index.htm
+        - https://www.javatpoint.com/windows
         - https://www.youtube.com/watch?v=v_1zB2WNN14
         - https://www.youtube.com/watch?v=z2r-p7xc7c4
         - https://www.youtube.com/watch?v=ROjZy1WbCIA
@@ -53,5 +55,13 @@ Hi! I'm **Saad Zia**. I am currently working as a Cyber Security Engineer . I am
           - https://www.youtube.com/watch?v=ZJ0s6jn7TBo&list=PLkPmSWtWNIyTQ1NX6MarpjHPkLUs3u1wG&index=1
           - https://www.youtube.com/watch?v=GtovwKDemnI
           - https://www.youtube.com/watch?v=UVUd9_k9C6A 
-            
+         
+        - **Windows:**
+          - https://www.javatpoint.com/powershell-vs-cmd
+          - https://www.tutorialspoint.com/batch_script/index.htm
+          - https://www.geeksforgeeks.org/most-useful-cmd-commands-in-windows/
+          - https://www.geeksforgeeks.org/command-prompt-hacks-for-windows/
+          - https://www.youtube.com/watch?v=TBBbQKp9cKw&list=PLRu7mEBdW7fDTarQ0F2k2tpwCJg_hKhJQ
+          - https://www.youtube.com/watch?v=UVUd9_k9C6A
+          - https://www.youtube.com/watch?v=K4YDHFalAK8
               
